@@ -5,8 +5,7 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
-
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabrielleeao/desafio-conceitos-nodejs?color=%2304D361">
   <img alt="Made by gabrielleao" src="https://img.shields.io/badge/made%20by-gabrielleao-%2304D361">
 </p>
 
@@ -29,8 +28,6 @@ de dar "likes :+1:". Exemplo o `CRUD` abaixo:
  - **R**EAD: Fazer a listagem dos repositório cadastrados;
  - **U**PDATE: Atualizar titulo, url, tecnologias utilizadas;
  - **D**ELETE: Deletar o repositório desejado;
-
-### :electric_plug: Como usar ? How use? 
 
 **1º** Faça o clone desse projeto, exemplo:
 
