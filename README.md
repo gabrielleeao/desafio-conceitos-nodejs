@@ -11,7 +11,6 @@
 </p>
 
 ## Sobre o desafio
-<<<<<<< HEAD
 
 O objetivo desse desafio é colocar em pratica todo conceito de Node.js aprendido no Nível 2, construindo uma aplicação para armazenar repositório, com a possibilidade
 de dar "likes :+1:". Exemplo o `CRUD` abaixo:
@@ -22,7 +21,7 @@ de dar "likes :+1:". Exemplo o `CRUD` abaixo:
 - **D**ELETE: Deletar o repositório desejado;
 
 ### :electric_plug: Como usar ? How use?
-=======
+
 O objetivo desse desafio é colocar em pratica todo conceito de Node.js aprendido no Nível 2, construindo uma aplicação para armazenar repositório, com a possibilidade
 de dar "likes :+1:". Exemplo o `CRUD` abaixo:
 
@@ -32,7 +31,6 @@ de dar "likes :+1:". Exemplo o `CRUD` abaixo:
  - **D**ELETE: Deletar o repositório desejado;
 
 ### :electric_plug: Como usar ? How use? 
->>>>>>> ee10523214503ec3c7aee7176c0590d4de256f6c
 
 **1º** Faça o clone desse projeto, exemplo:
 
@@ -54,26 +52,14 @@ yarn dev / npm run dev
 
 ### :wrench: Como testar ? How to test?
 
-<<<<<<< HEAD
-```shell
-=======
  ```shell
->>>>>>> ee10523214503ec3c7aee7176c0590d4de256f6c
 yarn test / npm run test
 ```
 
 ### Endpoints | Rotas da API:
 
-<<<<<<< HEAD
 - [Mostrar todos repositórios](docs/get.md) : `[GET] /repositories`
 - [Criar um repositório](docs/post.md) : `[POST] /repositories`
 - ["Dar" Like no repositório](docs/id/like/post.md) : `[POST] /repositories/:id/like`
 - [Fazer atualização no repositório](docs/id/put.md) : `[PUT] /repositories/:id`
 - [Deletar o repositório](docs/id/delete.md) : `[DELETE] /repositories/:id`
-=======
-* [Mostrar todos repositórios](docs/get.md) : `[GET] /repositories`
-* [Criar um repositório](docs/post.md) : `[POST] /repositories`
-* ["Dar" Like no repositório](docs/pk/post.md) : `[POST] /repositories/:id/like`
-* [Fazer atualização no repositório](docs/pk/put.md) : `[PUT] /repositories/:id`
-* [Deletar o repositório](docs/pk/delete.md) : `[DELETE] /repositories/:id`
->>>>>>> ee10523214503ec3c7aee7176c0590d4de256f6c
