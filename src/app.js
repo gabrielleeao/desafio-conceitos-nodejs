@@ -30,7 +30,7 @@ app.get("/repositories", (request, response) => {
       .json({ message: "You don't have repositories" });
   }
 
-  return response.json(repo);
+  return response.status(201).json(repo);
   // TODO
 });
 
