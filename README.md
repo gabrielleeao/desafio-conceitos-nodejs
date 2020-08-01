@@ -52,7 +52,7 @@ yarn dev / npm run dev
 
 ### :wrench: Como testar ? How to test?
 
- ```shell
+```shell
 yarn test / npm run test
 ```
 
